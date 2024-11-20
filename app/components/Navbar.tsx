@@ -23,7 +23,7 @@ const Navbar = () => {
         </nav>
       </header>
       <section>
-        <div className="grid md:grid-cols-2 grid-cols-1 ld:p-5 p-0">
+        <div className="grid md:grid-cols-2 grid-cols-1 lg:p-5 p-0">
           <div className='bg-[url("/images/bd.jpg")] lg:h-auto h-[30rem] bg-center bg-cover w-full md:rounded-lg rounded-none md:block hidden'></div>
           <div className="content p-10 md:space-y-5 space-y-7  md:text-left text-center">
             <h1 className="lg:text-5xl text-4xl font-bold lg:leading-[4rem] leading-[3rem]">
