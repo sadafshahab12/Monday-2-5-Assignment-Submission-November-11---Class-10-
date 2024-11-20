@@ -96,19 +96,11 @@ export const books = [
       "A historical epic covering the Napoleonic wars and the Russian aristocracy.",
     price: 29.99,
     availability: true,
-    src: "https://cdn.kobo.com/book-images/3ac03eac-d437-47e3-9b15-52542edabd56/1200/1200/False/war-and-peace-34.jpg",
+    src: "https://static-01.daraz.pk/p/0b469a5e948ffacd72031acc68efcf94.jpg",
   },
+
   {
     id: 12,
-    title: "Crime and Punishment",
-    shortIntro:
-      "A philosophical exploration of morality, guilt, and redemption in 19th century Russia.",
-    price: 17.99,
-    availability: false,
-    src: "https://cdn.kobo.com/book-images/2293d740-178e-4da1-a849-b11d6308fbaa/353/569/90/False/crime-and-punishment-35.jpg",
-  },
-  {
-    id: 13,
     title: "The Picture of Dorian Gray",
     shortIntro:
       "A novel exploring vanity, morality, and the consequences of a hedonistic life.",
@@ -117,7 +109,7 @@ export const books = [
     src: "https://d28hgpri8am2if.cloudfront.net/book_images/onix/cvr9781476788128/the-picture-of-dorian-gray-9781476788128_hr.jpg",
   },
   {
-    id: 14,
+    id: 13,
     title: "Frankenstein",
     shortIntro:
       "The classic tale of a scientist who creates life and faces the consequences of playing God.",
@@ -126,7 +118,7 @@ export const books = [
     src: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR2CMwKlMgGfz3RCLhodrjeTQwucjjsK0Unug&s",
   },
   {
-    id: 15,
+    id: 14,
     title: "The Odyssey",
     shortIntro:
       "An epic journey home after the Trojan War, filled with gods, monsters, and trials.",
@@ -135,7 +127,7 @@ export const books = [
     src: "https://www.bookonline.pk/wp-content/uploads/2023/05/WhatsApp-Image-2023-05-21-at-14.14.41.jpg",
   },
   {
-    id: 16,
+    id: 15,
     title: "The Chronicles of Narnia",
     shortIntro:
       "A fantasy series where children travel to a magical land filled with talking animals and epic adventures.",
