@@ -36,7 +36,7 @@ const Navbar = () => {
             <div className='bg-[url("/images/bd.jpg")] lg:h-auto h-[25rem] bg-center bg-cover w-full  md:hidden block'></div>
             <p className="text-[0.75rem] lg:text-sm lg:leading-8 leading-6 text-gray-500">
               Our intuitive book management system lets you add, edit, and
-              organize your books with ease. Whether you're an avid reader, a
+              organize your books with ease. Whether you are an avid reader, a
               library manager, or a bookstore owner, we offer a seamless
               solution to track availability, prices, descriptions, and much
               more. Take control of your book collection today
