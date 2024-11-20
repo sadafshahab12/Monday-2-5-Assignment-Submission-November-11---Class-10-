@@ -235,13 +235,17 @@ const BookList = () => {
               key={book.id}
               className="book-card shadow-lg rounded-lg hover:scale-105 duration-500 "
             >
+              <div className="w-full md:h-[20rem] h-[15rem] bg-slate-800 rounded-tr-lg rounded-tl-lg">
+
+            
               <Image
                 src={book.src}
                 alt={book.title}
                 width={800}
                 height={500}
-                className="w-full md:h-[20rem] h-[15rem] md:object-center  md:object-contain object-cover rounded-tr-lg rounded-tl-lg"
+                className=" w-full h-full  md:object-center  md:object-contain object-cover rounded-tr-lg rounded-tl-lg"
               />
+                </div>
 
               <div className="md:space-y-3  space-y-1 md:p-5 p-3">
                 <h2 className="md:text-xl text-[1rem] font-bold">
